@@ -11,8 +11,7 @@ class App extends Component {
           <h2>Welcome to React</h2>
         </div>
         <p className="App-intro">
-	    #To get started, edit src/App.js and save to reload
-	    Bye There !!!! New line with docker-compose
+	    I was changed at the feature Branch
         </p>
       </div>
     );
